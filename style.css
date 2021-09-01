@@ -1,0 +1,46 @@
+body{
+  margin: 0;
+  background-color: #81F5FF;
+  text-align: center;
+}
+h5{
+  font-family: 'Sacramento', cursive;
+    font-size: 2rem;
+}
+h3{
+  font-family: 'Staatliches', cursive;
+  font-size: 2rem;
+  letter-spacing: 15px;
+  color: #00ADB5;
+}
+h3:hover{
+  font-family: 'Staatliches', cursive;
+  font-size: 2rem;
+  letter-spacing: 15px;
+  color: #FF6B6B;
+}
+p{
+  font-family: 'Allison', cursive;
+  font-size: 2rem;
+  letter-spacing: 2px;
+  color: gray;
+}
+a{
+  color: #00ADB5;
+  font-family: 'Staatliches', cursive;
+  font-size: 1.5rem;
+  margin: 30px 30px;
+  padding: 4px 20px;
+  border-radius: 5px;
+  text-decoration: none;
+}
+a:hover{
+  color: #eaf6f6;
+}
+.bottom-container{
+    font-family: 'Staatliches', cursive;
+    font-size: 2rem;
+    padding: 20px 0 20px;
+    background-color: #055052;
+    margin : 200px 0 0  0;
+}
